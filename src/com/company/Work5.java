@@ -2,7 +2,7 @@ package com.company;
 
 public class Work5 {
     public static void main(String args[]) {
-        // объявляем и инициализируем три переменные
+        // объявляем и инициализируем переменную
         int a = -1;
 
         if (a < 0) {      // если a меньше 0
